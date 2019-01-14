@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/CommandeDomaine.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/CommandeDAO.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/ConvertPerson.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/ProduitCommandeDomaine.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/entities/Commande.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/ImageDomaine.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/ImageService.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/ConvertProduit.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/ConvertProduitCommande.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/ProduitDAO.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/entities/ProduitCmd.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/entities/Image.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/PersonDAOLocal.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/ProduitCommandeService.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/CommandeDAOLocal.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/CommandeService.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/ImageServiceRemote.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/ProduitService.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/PersonDAO.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Domaine/ConvertCommande.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/CommandeServiceRemote.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/ProduitCommandeLocal.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/ProduitCommande.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/ProduitCommandeServiceRemote.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/DAO/ProduitDAOLocal.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/entities/Produit.java</file>
+            <file>file:/C:/Users/Shadowniic/Documents/NetBeansProjects/Ecommerce-ejb/src/java/Service/Metier/ProduitServiceLocal.java</file>
+        </group>
+    </open-files>
+</project-private>
